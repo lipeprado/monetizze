@@ -1,13 +1,13 @@
 {
-  "name": "fastshell",
-  "title": "Fiercely quick and opinionated front-ends",
-  "author": "Hossein Karami",
-  "url": "https://HosseinKarami.github.io/fastshell",
-  "version": "1.0.5",
+  "name": "Monetizze FrontEnd",
+  "title": "Front End Teste Monetizze",
+  "author": "Filipe Prado",
+  "url": "https://github.com/lipeprado",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/HosseinKarami/fastshell.git"
+    "url": "https://github.com/lipeprado/monetizze"
   },
   "devDependencies": {
     "browser-sync": "^2.11.1",

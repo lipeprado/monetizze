@@ -9,5 +9,10 @@
 * Gulp
 * Hot Reloader
 
+install Gulp:
 
+` npm install -g gulp`
 
+install npm packages
+
+`npm install`

@@ -1,16 +1,14 @@
-# EditorConfig helps developers define and maintain consistent
-# coding styles between different editors and IDEs
-# editorconfig.org
+# Manter codigo uniforme
 
 root = true
 
 [*]
 
-# Change these settings to your own preference
+# Minhas opções
 indent_style = tab
 indent_size = 2
 
-# We recommend you to keep these unchanged
+# Não Alterar
 end_of_line = lf
 charset = utf-8
 trim_trailing_whitespace = true
